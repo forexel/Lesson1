@@ -1,6 +1,6 @@
 package main // говорим, что файл принадлежит пакету main
 
-import "fmt"
+import "fmt" 
 
 // func -- объявление функции
 func main() { // func main() -- точка входа
